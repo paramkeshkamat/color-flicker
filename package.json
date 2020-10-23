@@ -1,0 +1,15 @@
+{
+  "name": "color-flicker",
+  "version": "1.0.0",
+  "description": "It gives you a random hex or rbg color on just clicking a button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1"
+  }
+}
